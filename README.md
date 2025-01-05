@@ -1,1 +1,3 @@
-# IndustriAI
+# IndustriAI Hackathon
+
+Theme : Smart Manufacturing
